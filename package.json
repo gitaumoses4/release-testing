@@ -4,9 +4,8 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc && node dist/index.js",
-    "prepare": "husky",
-    "release": "semantic-release"
+    "build": "tsc &&",
+    "prepare": "husky"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
