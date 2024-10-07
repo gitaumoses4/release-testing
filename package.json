@@ -1,6 +1,6 @@
 {
   "name": "gitau-release",
-  "version": "1.2.0-RC.1",
+  "version": "1.2.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
