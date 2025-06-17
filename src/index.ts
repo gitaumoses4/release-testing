@@ -1,4 +1,6 @@
 console.log('Happy developing ✨')
 
 
-// add something new
+function add(  a: number, b: number): number {
+  return a + b;
+}
