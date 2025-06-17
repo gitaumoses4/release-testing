@@ -1,3 +1,10 @@
+# [1.3.0-RC.1](https://github.com/gitaumoses4/release-testing/compare/v1.2.0...v1.3.0-RC.1) (2025-06-17)
+
+
+### Features
+
+* add add function ([d885915](https://github.com/gitaumoses4/release-testing/commit/d885915cdc719f94e608bd7ecce852c19d4c083d))
+
 # [1.2.0](https://github.com/gitaumoses4/release-testing/compare/v1.1.0...v1.2.0) (2024-10-07)
 
 
