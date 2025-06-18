@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/gitaumoses4/release-testing/compare/v1.3.0...v1.4.0) (2025-06-18)
+
+
+### Features
+
+* add subtraction feature ([dfa7643](https://github.com/gitaumoses4/release-testing/commit/dfa7643b3de0cf3b0da516d4901b8b0b31f691de))
+
 # [1.4.0-RC.1](https://github.com/gitaumoses4/release-testing/compare/v1.3.0...v1.4.0-RC.1) (2025-06-18)
 
 
